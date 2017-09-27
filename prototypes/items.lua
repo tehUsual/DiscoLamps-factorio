@@ -1,4 +1,15 @@
 data:extend({
+    -- RGB Circuit
+    {
+        type = "item",
+        name = "rgb-circuit",
+        icon = "__DiscoLamps__/graphics/rgb-circuit.png",
+        flags = {"goes-to-main-inventory"},
+        subgroup = {"intermediate-product"},
+        order = "e[rgb-circuit]",
+        stack_size = 200
+    },
+
     -- Red Lamp Item
     {
         type = "item",
