@@ -2,6 +2,7 @@ data:extend({
     {
         type = "technology",
         name = "small-color-lamp-t",
+        icon = "__DiscoLamps__/graphics/small-lamp-technology.png",
         icon_size = 128,
         prerequisites = { "optics" },
         effects = {
