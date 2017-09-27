@@ -6,7 +6,7 @@ data:extend({
         type = "recipe",
         name = "rgb-circuit-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "electronic-circuit", 1 },
@@ -20,7 +20,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-red-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -33,7 +33,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-blue-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -46,7 +46,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-green-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -59,7 +59,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-lime-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -72,7 +72,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-yellow-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -85,7 +85,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-pink-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -98,7 +98,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-cyan-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -111,7 +111,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-grey-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -124,7 +124,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-black-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -137,7 +137,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-orange-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -150,7 +150,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-purple-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
@@ -163,7 +163,7 @@ data:extend({
         type = "recipe",
         name = "small-lamp-brown-c",
         energy_required = craftDuration,
-        enabled = true,
+        enabled = false,
         ingredients =
         {
             { "small-lamp", 1 },
