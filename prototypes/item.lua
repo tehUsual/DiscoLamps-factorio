@@ -5,7 +5,7 @@ data:extend({
         name = "rgb-circuit",
         icon = "__DiscoLamps__/graphics/icon/rgb-circuit.png",
         flags = { "goes-to-main-inventory" },
-        subgroup = { "intermediate-product" },
+        subgroup = "intermediate-product",
         order = "e[rgb-circuit]",
         stack_size = 200
     },

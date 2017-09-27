@@ -526,5 +526,5 @@ data:extend({
             direction_count = 1,
             shift = { -0.03125, -0.03125 },
         }
-    },
+    }
 })
