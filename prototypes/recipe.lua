@@ -9,8 +9,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"electronic-circuit", 1},
-            {"copper-cable", 1}
+            { "electronic-circuit", 1 },
+            { "copper-cable", 1 }
         },
         result = "rgb-circuit"
     },
@@ -23,8 +23,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-red"
     },
@@ -36,8 +36,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-blue"
     },
@@ -49,8 +49,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-green"
     },
@@ -62,8 +62,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-lime"
     },
@@ -75,8 +75,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-yellow"
     },
@@ -88,8 +88,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-pink"
     },
@@ -101,8 +101,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-cyan"
     },
@@ -114,8 +114,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-grey"
     },
@@ -127,8 +127,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-black"
     },
@@ -140,8 +140,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-orange"
     },
@@ -153,8 +153,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-purple"
     },
@@ -166,8 +166,8 @@ data:extend({
         enabled = true,
         ingredients =
         {
-            {"small-lamp", 1},
-            {"rgb-circuit", 1},
+            { "small-lamp", 1 },
+            { "rgb-circuit", 1 },
         },
         result = "small-lamp-brown"
     }
