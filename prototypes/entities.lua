@@ -3,7 +3,7 @@ data:extend({
   {
     type = "lamp",
     name = "small-lamp-red",
-    icon = "__DiscoLamps__/graphics/small-lamp-red.png",
+    icon = "__DiscoLamps__/graphics/icon/small-lamp-red.png",
     flags = { "placeable-neutral", "player-creation" },
     minable = { hardness = 0.2, mining_time = 0.5, result = "small-lamp-red" },
     max_health = 100,
@@ -21,7 +21,7 @@ data:extend({
     glow_size = 6,
     glow_color_intensity = 0.135,
     picture_off = {
-      filename = "__DiscoLamps__/graphics/light-off-red.png",
+      filename = "__DiscoLamps__/graphics/lamp-off/light-off-red.png",
       priority = "high",
       width = 67,
       height = 58,
@@ -31,7 +31,7 @@ data:extend({
       shift = { -0.015625, 0.15625 },
     },
     picture_on = {
-      filename = "__DiscoLamps__/graphics/light-on-patch-red.png",
+      filename = "__DiscoLamps__/graphics/lamp-on/light-on-patch-red.png",
       priority = "high",
       width = 62,
       height = 62,
@@ -46,7 +46,7 @@ data:extend({
   {
     type = "lamp",
     name = "small-lamp-blue",
-    icon = "__DiscoLamps__/graphics/small-lamp-blue.png",
+    icon = "__DiscoLamps__/graphics/icon/small-lamp-blue.png",
     flags = { "placeable-neutral", "player-creation" },
     minable = { hardness = 0.2, mining_time = 0.5, result = "small-lamp-blue" },
     max_health = 100,
@@ -64,7 +64,7 @@ data:extend({
     glow_size = 6,
     glow_color_intensity = 0.135,
     picture_off = {
-      filename = "__DiscoLamps__/graphics/light-off-blue.png",
+      filename = "__DiscoLamps__/graphics/lamp-off/light-off-blue.png",
       priority = "high",
       width = 67,
       height = 58,
@@ -74,7 +74,7 @@ data:extend({
       shift = { -0.015625, 0.15625 },
     },
     picture_on = {
-      filename = "__DiscoLamps__/graphics/light-on-patch-blue.png",
+      filename = "__DiscoLamps__/graphics/lamp-on/light-on-patch-blue.png",
       priority = "high",
       width = 62,
       height = 62,
@@ -88,7 +88,7 @@ data:extend({
   {
     type = "lamp",
     name = "small-lamp-green",
-    icon = "__DiscoLamps__/graphics/small-lamp-green.png",
+    icon = "__DiscoLamps__/graphics/icon/small-lamp-green.png",
     flags = { "placeable-neutral", "player-creation" },
     minable = { hardness = 0.2, mining_time = 0.5, result = "small-lamp-green" },
     max_health = 100,
@@ -106,7 +106,7 @@ data:extend({
     glow_size = 6,
     glow_color_intensity = 0.135,
     picture_off = {
-      filename = "__DiscoLamps__/graphics/light-off-green.png",
+      filename = "__DiscoLamps__/graphics/lamp-off/light-off-green.png",
       priority = "high",
       width = 67,
       height = 58,
@@ -116,7 +116,7 @@ data:extend({
       shift = { -0.015625, 0.15625 },
     },
     picture_on = {
-      filename = "__DiscoLamps__/graphics/light-on-patch-green.png",
+      filename = "__DiscoLamps__/graphics/lamp-on/light-on-patch-green.png",
       priority = "high",
       width = 62,
       height = 62,
@@ -130,7 +130,7 @@ data:extend({
   {
     type = "lamp",
     name = "small-lamp-lime",
-    icon = "__DiscoLamps__/graphics/small-lamp-lime.png",
+    icon = "__DiscoLamps__/graphics/icon/small-lamp-lime.png",
     flags = { "placeable-neutral", "player-creation" },
     minable = { hardness = 0.2, mining_time = 0.5, result = "small-lamp-lime" },
     max_health = 100,
@@ -148,7 +148,7 @@ data:extend({
     glow_size = 6,
     glow_color_intensity = 0.135,
     picture_off = {
-      filename = "__DiscoLamps__/graphics/light-off-lime.png",
+      filename = "__DiscoLamps__/graphics/lamp-off/light-off-lime.png",
       priority = "high",
       width = 67,
       height = 58,
@@ -158,7 +158,7 @@ data:extend({
       shift = { -0.015625, 0.15625 },
     },
     picture_on = {
-      filename = "__DiscoLamps__/graphics/light-on-patch-lime.png",
+      filename = "__DiscoLamps__/graphics/lamp-on/light-on-patch-lime.png",
       priority = "high",
       width = 62,
       height = 62,
