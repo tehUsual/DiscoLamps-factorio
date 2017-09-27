@@ -3,7 +3,7 @@ data:extend({
     {
         type = "item",
         name = "rgb-circuit",
-        icon = "__DiscoLamps__/graphics/rgb-circuit.png",
+        icon = "__DiscoLamps__/graphics/icon/rgb-circuit.png",
         flags = {"goes-to-main-inventory"},
         subgroup = {"intermediate-product"},
         order = "e[rgb-circuit]",
@@ -14,7 +14,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-red",
-        icon = "__DiscoLamps__/graphics/small-lamp-red.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-red.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-red]",
@@ -25,7 +25,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-blue",
-        icon = "__DiscoLamps__/graphics/small-lamp-blue.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-blue.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-blue]",
@@ -36,7 +36,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-green",
-        icon = "__DiscoLamps__/graphics/small-lamp-green.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-green.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-green]",
@@ -47,7 +47,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-lime",
-        icon = "__DiscoLamps__/graphics/small-lamp-lime.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-lime.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-lime]",
@@ -58,7 +58,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-yellow",
-        icon = "__DiscoLamps__/graphics/small-lamp-yellow.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-yellow.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-yellow]",
@@ -69,7 +69,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-pink",
-        icon = "__DiscoLamps__/graphics/small-lamp-pink.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-pink.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-pink]",
@@ -80,7 +80,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-cyan",
-        icon = "__DiscoLamps__/graphics/small-lamp-cyan.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-cyan.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-cyan]",
@@ -91,7 +91,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-grey",
-        icon = "__DiscoLamps__/graphics/small-lamp-grey.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-grey.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-grey]",
@@ -102,7 +102,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-black",
-        icon = "__DiscoLamps__/graphics/small-lamp-black.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-black.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-black]",
@@ -113,7 +113,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-orange",
-        icon = "__DiscoLamps__/graphics/small-lamp-orange.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-orange.png",
         flags = { "goes-to-quickbar" },
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-orange]",
@@ -124,7 +124,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-purple",
-        icon = "__DiscoLamps__/graphics/small-lamp-purple.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-purple.png",
         flags = {"goes-to-quickbar"},
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-purple]",
@@ -135,7 +135,7 @@ data:extend({
     {
         type = "item",
         name = "small-lamp-brown",
-        icon = "__DiscoLamps__/graphics/small-lamp-brown.png",
+        icon = "__DiscoLamps__/graphics/icon/small-lamp-brown.png",
         flags = {"goes-to-quickbar"},
         subgroup = "circuit-network",
         order = "a[light]-a[small-lamp-brown]",
